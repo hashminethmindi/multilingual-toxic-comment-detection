@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Trained models and checkpoints
+models/
+
+# Generated dataset files
+data/processed/final_multilingual_dataset.csv
+data/processed/train.csv
+data/processed/validation.csv
+data/processed/test.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
