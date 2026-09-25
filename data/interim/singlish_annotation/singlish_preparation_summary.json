@@ -1,0 +1,41 @@
+{
+  "original_rows": 40525,
+  "exclusions": {
+    "null_empty": 1,
+    "whitespace_only": 0,
+    "marker_only": 70,
+    "exact_duplicate": 78
+  },
+  "raw_exact_duplicate_occurrences": 132,
+  "candidate_rows_remaining": 40376,
+  "pending_rows": 22989,
+  "needs_review_rows": 17387,
+  "review_reason_counts": {
+    "partial_unknown_marker": 11803,
+    "possible_phone_number": 1,
+    "non_latin_script": 1,
+    "single_word": 65,
+    "leading_quote": 556,
+    "timestamp_like": 1,
+    "uncertain_provenance": 5000
+  },
+  "source_file": "D:/multilingual-toxic-comment-detection/data/raw/singlish/singlish_raw.xlsx",
+  "source_sheet": "Comments",
+  "text_column": "SINGLISH",
+  "source_sha256_before": "e01d06123579c4a45a446766b4907b5681390a85c1743426c23b0a0a1e99bab8",
+  "source_sha256_after": "e01d06123579c4a45a446766b4907b5681390a85c1743426c23b0a0a1e99bab8",
+  "source_unchanged": true,
+  "exclusion_precedence": [
+    "null_empty",
+    "whitespace_only",
+    "marker_only",
+    "exact_duplicate"
+  ],
+  "review_reason_delimiter": ";",
+  "sample_id_rule": "SI + (original Excel row - 1), zero-padded to at least 5 digits",
+  "provenance_review_excel_rows": [
+    35526,
+    40525
+  ],
+  "language_policy": "No language classification. Non-Latin letters are flagged; pending does not verify language eligibility."
+}

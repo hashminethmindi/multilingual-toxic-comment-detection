@@ -1,0 +1,501 @@
+﻿sample_id,text,source_row,review_status,review_reason,reviewer_1_label,reviewer_2_label,final_label,annotation_status
+SI28960,mama kawadawath oyawa mata kemathi karawanna uthsaha kale nehe mama oyawa mata hondin adaraya karanna uthsaha kala subha pethum oya eka ayin kala,28961,pending,,,,,pending
+SI36283,"oya ge wada hariyata wal buruwa wage wada karanawa, meka nam athi.",36284,needs_review,uncertain_provenance,,,,pending
+SI35419,"""Manikah",35420,needs_review,single_word;leading_quote,,,,pending
+SI07411,mama hithuwe oyata minihek innawa kiyala mama kiwwa api eya gena katha karanne nehe kiyala,7412,pending,,,,,pending
+SI13927,eyi api ewayin samaharak laba nogatha yuththe wishala athalossak anubhawa kara in samaharak siduwanne kumakda yannayi,13928,pending,,,,,pending
+SI20033,hondayi subha rathriyak,20034,pending,,,,,pending
+SI15336,owun apasu ethulata yana thenata gos etha,15337,pending,,,,,pending
+SI34993,"""kudda",34994,needs_review,single_word;leading_quote,,,,pending
+SI08281,mama pahata rediyal [Unkown] salakunu karamin rojar wulf eka pita karanawa,8282,needs_review,partial_unknown_marker,,,,pending
+SI11354,nikamata hithuwa samaharawita eya eyage kela ekka kopi tikak bonna oya kemathi nehe kiyala,11355,pending,,,,,pending
+SI31699,mata yamak awashyayi obata benku sambandhatha thibeda mata sambandhatha thibe,31700,pending,,,,,pending
+SI07757,oyata asaneepayi mata kawadawath hondak denune nehe,7758,pending,,,,,pending
+SI16713,mama samaye minisek mama obata jeewath weemata awashya eya regena yannemi,16714,pending,,,,,pending
+SI28869,mata iwasiya heki ekama asalwesiya obayi mama obata anathuru engewwa,28870,pending,,,,,pending
+SI35145,"""hodai",35146,needs_review,single_word;leading_quote,,,,pending
+SI10960,oba obe potha wikunana thuru eya apasu ganna meriyan enna api sathyayata muhuna demu kisiweku eya prakashayata path nokaranu etha,10961,pending,,,,,pending
+SI25652,mama ellenawa heyi inna,25653,pending,,,,,pending
+SI33049,[Unkown] [Unkown] wena wachanayak neweyi,33050,needs_review,partial_unknown_marker,,,,pending
+SI05672,mama obata thawath ganudenuwak kireemata sudanam oh thawamath mage hadawatha wanna,5673,pending,,,,,pending
+SI35207,"""Lassanaei nehara tichar",35208,needs_review,leading_quote,,,,pending
+SI39884,"Ane oya, pissu wage danawada mokakda kiyala.",39885,needs_review,uncertain_provenance,,,,pending
+SI15774,samahara wita mama kihipa wathawakma katawath wedi thaba etha,15775,pending,,,,,pending
+SI25160,ow,25161,needs_review,single_word,,,,pending
+SI20790,hisak nomethiwa siyaluma wilasithawan mata wisthara ithiri karayi,20791,pending,,,,,pending
+SI13038,e gena mata kiyanna,13039,pending,,,,,pending
+SI38385,"Ane manda oya ge reply eka, hitha nathi wage behave wenne ai? tikak igena ganin.",38386,needs_review,uncertain_provenance,,,,pending
+SI35097,"""Lasannee",35098,needs_review,single_word;leading_quote,,,,pending
+SI09668,namuth mata ema poth awashyayi oba mata obe piya mathak kara denawa ohu kawadawath chayarupa elbamayak illa nositiyath ohu nitharama kegesuwa,9669,pending,,,,,pending
+SI16032,ow ow mama eya matha sitimi api ikmaninma gaman karana tharamata api ape de wiyadam kireemata ikman wemu,16033,pending,,,,,pending
+SI01957,oya awurudu hayakata kalin edee kellawa marala demma mona magulakda,1958,pending,,,,,pending
+SI17545,oba koheda [Unkown] hotalaya,17546,needs_review,partial_unknown_marker,,,,pending
+SI38791,"oya hariyata weda bari wage wada karanawa, comment karanna kalin hithapan.",38792,needs_review,uncertain_provenance,,,,pending
+SI35178,"""El",35179,needs_review,single_word;leading_quote,,,,pending
+SI35448,"""Akke dance eka beautiful ?? Video ekata Copyright wadila ??",35449,needs_review,leading_quote,,,,pending
+SI09377,mage kabaya namuth api kala yuththe kumakda [Unkown],9378,needs_review,partial_unknown_marker,,,,pending
+SI14889,ithin mama sadharana paharak laba gannam obata obata awashya siyalla lebenu etha ho neel obata laba geneemata awashya deyi balamu,14890,pending,,,,,pending
+SI28091,mama eyata ida nodemi namuth eeye rathriye karyalayedee api mage wththiya gena sakachcha karana wita oba ekanga wiya,28092,pending,,,,,pending
+SI15888,eththatama matin api katha karanna apu chithrapatiya [Unkown] [Unkown] ow apita therenawa oya pitapatha kiyawala ekata godak kemathi,15889,needs_review,partial_unknown_marker,,,,pending
+SI23764,den api nawathwanne nethi de,23765,pending,,,,,pending
+SI10490,eya hondin sitinu etheyi oba sithanawada eya eyawa rekabala ganne kesedeyi danee,10491,pending,,,,,pending
+SI34258,ohu kiwwa obata mangaharinna oba nowannata mama ekathu wanne nehe eka loku deyak,34259,pending,,,,,pending
+SI25443,oh mama teewee balanawa danne nehe monada balanne kiyala,25444,pending,,,,,pending
+SI35291,"""Matath dance igana ganna one ????",35292,needs_review,leading_quote,,,,pending
+SI35336,Marama,35337,needs_review,single_word,,,,pending
+SI03179,sankeernaye mandagamee kawa hathalihak allagena wyuhaya nowenaswa penena paridi owunta balaya etha,3180,pending,,,,,pending
+SI38486,"oya wage kenek, uba nam boru karaya kiyala therenneth ne.",38487,needs_review,uncertain_provenance,,,,pending
+SI40185,me video eka balala comment karana eka wal buruwa hariyata.,40186,needs_review,uncertain_provenance,,,,pending
+SI23047,desheeya kuthuhalaya gena unanduwak netha namuth mama guptha widyawa gena unandu wana athara meya [Unkown] ekak,23048,needs_review,partial_unknown_marker,,,,pending
+SI26802,thadin gelapena hondama wargaya,26803,pending,,,,,pending
+SI35693,umbala mole kalpana nathi ne.,35694,needs_review,uncertain_provenance,,,,pending
+SI18401,oba mage begaya wathaye dee suwapath wanawata amatharawa onewata wada gilwa eliyata demiya noheki wana paridi welum patiyak demiya yuthuya,18402,pending,,,,,pending
+SI33686,nawathwanna epa mata thawa thiyenawa oya mata kiyanna,33687,pending,,,,,pending
+SI35132,"""pattaaa",35133,needs_review,single_word;leading_quote,,,,pending
+SI32590,nehe eya boho wita kisiwak sidu nowanu etha mama ohuta hondin katha karannemi mata pramada weemata awashya netha,32591,pending,,,,,pending
+SI00229,harine,230,needs_review,single_word,,,,pending
+SI35127,"""3:53 atha allanna neda giye kelum horennma nodenenna ??",35128,needs_review,leading_quote;timestamp_like,,,,pending
+SI09504,upaharaya yanu kisiwak nowe otunna wedagath wanne otunna skotlanthaye ya saha skotlanthaya wiliyam wolas ya,9505,pending,,,,,pending
+SI01689,oya kawuda mama kellawa genawe mathakada,1690,pending,,,,,pending
+SI39678,"oya ge reply eka, meka nam wal buruwa level ekak. kata wahagena inna.",39679,needs_review,uncertain_provenance,,,,pending
+SI03816,obe wayasa keeyada eya eththenma niweradi prashnayak nowe,3817,pending,,,,,pending
+SI08051,eka hari mata oya wage kenek mage jeewitheta munagehila ne,8052,pending,,,,,pending
+SI34979,"""Uba kramaya hari ban pirimiyak  na",34980,needs_review,leading_quote,,,,pending
+SI38650,oya wage kenek mehema karanne wada nodanna nisa da? tikak igena ganin.,38651,needs_review,uncertain_provenance,,,,pending
+SI35491,"""Woww kiyanna wachana na godak lassani ewagema godak asai me vedio ekta....????????",35492,needs_review,leading_quote,,,,pending
+SI04225,mata bayayi ithin helan oya kawadahari benkuwak ekka tharanga karanna heduwada,4226,pending,,,,,pending
+SI27363,tharangayen pasu eya miya ya hekiya eya den miya ya hekiya,27364,pending,,,,,pending
+SI00737,obata mawa pitathata gena yamata gewanu lebuwe mama sebawinma waira karana ek pudgalayeku wisini eya sakas kireemak bawa mama dena sitiyemi eya ese nowe,738,pending,,,,,pending
+SI33365,heyi oya mata ekata katha karanna yanne nedda samuganna kisima deyakata sthuthiyi,33366,pending,,,,,pending
+SI26293,e [Unkown] ayiwo [Unkown] see mon meda upagranthaya balanna,26294,needs_review,partial_unknown_marker,,,,pending
+SI09655,mekata wada amuthuyi kelel salakunu karanawa mama danne nehe kisima deyak wenna puluwan kiyala,9656,pending,,,,,pending
+SI04000,hari oya dekka mama den yanawa dewid mata samawenna mama eeye obawa kalabala kala namuth siduwanne kumakda yanna oba therum gatha yuthuyi,4001,pending,,,,,pending
+SI34708,itha naraka plag ohuta erehiwa,34709,pending,,,,,pending
+SI19914,ma samanga manasikawa wetenna epa e gena manasika kisiwak obata pahasu netha,19915,pending,,,,,pending
+SI21780,oh baya wenna epa mama kiyapu deta eya amanapa wune nehe me welawe oyala dennata hari bil eka sehellu karanna one me welawe mama selakilimath wenne mama badaginne inna kema gena saha mata mara hisaradayak thiyenawa,21781,pending,,,,,pending
+SI25092,obata eya wehesata path nowe mama eththa washayenma sitimi,25093,pending,,,,,pending
+SI35033,"""Umali Thilakarathne ",35034,needs_review,leading_quote,,,,pending
+SI23013,oya monawada thaththe mawa alokamath kale kiyala,23014,pending,,,,,pending
+SI29308,oba saha wilkins stheera lesa yamata selasum karamin sitina oba saha wilkins nisekayenma chamathkara wana bawa ho ohu katha kireemata kemathi hudakala mahalu miniseki,29309,pending,,,,,pending
+SI35198,"""Sooo cute mamaa hrima asai oyataaa....",35199,needs_review,leading_quote,,,,pending
+SI35172,"""kolla patta lassanata kiyanawa sinduwa",35173,needs_review,leading_quote,,,,pending
+SI24670,oba mata kuda gaurawayak laba diya hekiya,24671,pending,,,,,pending
+SI18431,obata panayak awashya yeyi mama nosithami ebewin obath ese nokala yuthu ya,18432,pending,,,,,pending
+SI25729,mokakda e keti wela thiyenne,25730,pending,,,,,pending
+SI27208,karunakara kreedawa awasan wana thek rendee sitinna,27209,pending,,,,,pending
+SI08928,apa sathuwa dolar dahasayak ethi athara eya niweradi nowe,8929,pending,,,,,pending
+SI20287,oba udumahalata yanne netha,20288,pending,,,,,pending
+SI36031,umbala chater machan.,36032,needs_review,uncertain_provenance,,,,pending
+SI11231,eken adahas wenne mama eththatama bahira wishwaya mona wageda kiyala hariyatama danne nehe,11232,pending,,,,,pending
+SI32938,sammatha nuthana ihala mattame sammathaya,32939,pending,,,,,pending
+SI08652,ithin kohomada yaluwane oba rusiyanu bhashawa chathura lesa katha karanne api pasaledee awadhanaya yomu kalemu,8653,pending,,,,,pending
+SI03730,samawanna,3731,needs_review,single_word,,,,pending
+SI08802,mama [Unkown] mama wihilu minisa hee hee mama harima wihilu hee hee fk yu [Unkown],8803,needs_review,partial_unknown_marker,,,,pending
+SI35031,"""A unata oyage marriage eka kelaunane",35032,needs_review,leading_quote,,,,pending
+SI08223,hondayi mama heta karyabahula wannemi kese wethath mata kadadasi thuwa haya dahasak miladee gatha yuthuya,8224,pending,,,,,pending
+SI19286,mahaththayo meka randuwak karanna harida mechchara kal lassanayi mama e kabaya kawadawath dekala ne,19287,pending,,,,,pending
+SI35233,"""Sir babek labila masa 2k giyama yoga kalata kamak nadda?",35234,needs_review,leading_quote,,,,pending
+SI19839,obe mara kan nasaya hiskabala paudgalika sihiwatana,19840,pending,,,,,pending
+SI38610,oya kata witharai wada ban.,38611,needs_review,uncertain_provenance,,,,pending
+SI10946,saha obe kanthawata eyata kalin pitawa yamata sidu wu athara eya obata sthuthi karana lesa magen illa sitiyaya,10947,pending,,,,,pending
+SI29696,laba gatha heki weredda kumakda karunakara netha,29697,pending,,,,,pending
+SI37882,"Hariyata baluwoth oya ge wada moda wage ne, oya wage aya nisa thamai mehema wenne.",37883,needs_review,uncertain_provenance,,,,pending
+SI20533,oba thawamath ekata hondin sitina bawa mata wishwasayi,20534,pending,,,,,pending
+SI08148,oh eetath wada naraka namuth ema meksikanu peneema bonchi dip tharam naraka netha ow ow hari mata rost eka dee obe piyawara balanna mama newatha guwan widuliyata ennam,8149,pending,,,,,pending
+SI27128,ohu katha karanne thaman gena nowe ewita ohu katha karanne kumak da [Unkown],27129,needs_review,partial_unknown_marker,,,,pending
+SI35492,"""Woww eka nm maru ????????????",35493,needs_review,leading_quote,,,,pending
+SI23807,hayi petiyo hayi thaththe,23808,pending,,,,,pending
+SI04654,ow petiyo oyage [Unkown] [Unkown],4655,needs_review,partial_unknown_marker,,,,pending
+SI30039,honda pothak hah hah ow eka thamayi,30040,pending,,,,,pending
+SI35437,"""Awww akkiyo",35438,needs_review,leading_quote,,,,pending
+SI00208,Niyamai 🇱🇰,209,needs_review,single_word,,,,pending
+SI17455,mata yanna denna oya mata kiyanna ona eya kiyapu de,17456,pending,,,,,pending
+SI24525,oba mage piyata oba bawa danwanne nethi bawa hari,24526,pending,,,,,pending
+SI22781,eya mandagamee wana bawa oba hondin danne keseda [Unkown],22782,needs_review,partial_unknown_marker,,,,pending
+SI18107,[Unkown] wiski oba wenuwen [Unkown] mahatha mata karunakara mihiri ha sisil deyak,18108,needs_review,partial_unknown_marker,,,,pending
+SI30600,ow oya thamayi oya tep heduwe,30601,pending,,,,,pending
+SI34971,"""Ekenma ..??",34972,needs_review,single_word;leading_quote,,,,pending
+SI14561,eeyam anka hathara saha dolaha kelinma snayu paddhathiyata newatha winyasa karanna,14562,pending,,,,,pending
+SI29956,me wikatayan samanga tika welawak pitathata gos obata yahapathak karanna,29957,pending,,,,,pending
+SI14879,babar mage meelanga newathuma wuye sar ikmaninma eya niyamanaya karanu eth nam pamanak e gena karadara nowanna eya obe karapatiyen iwath wee obe eswalin eliyata enne nam ma asannata yanne epamanayi,14880,pending,,,,,pending
+SI18183,eweni sancharayak sandaha obe wetupa kumakdeyi oba sithanne kumakdeyi mata hondin wetahe,18184,pending,,,,,pending
+SI10935,mama ema papandu kathawe weda karamin sitimi mama newatha habeeb wetha ya yuthuya,10936,pending,,,,,pending
+SI14867,luthinan kawuda mage nama kiyanna epa,14868,pending,,,,,pending
+SI35140,"""lassanak",35141,needs_review,single_word;leading_quote,,,,pending
+SI27800,meka [Unkown] oyata mukuth wenne ne oyata sawari deshakayek one,27801,needs_review,partial_unknown_marker,,,,pending
+SI35168,"""Maru",35169,needs_review,single_word;leading_quote,,,,pending
+SI35036,"""umali akke oya gena adare hithenawa",35037,needs_review,leading_quote,,,,pending
+SI16437,ithin mama ennada eththa washayenma mama mithuran kihipa deneku samanga pitathata yamata sudanamwa sitimi,16438,pending,,,,,pending
+SI00235,maru,236,needs_review,single_word,,,,pending
+SI35334,"""Meka man me keeweni paaratada balanne,supiriy hode",35335,needs_review,leading_quote,,,,pending
+SI32835,mata puthek innawa kiyala eya kiwwa eyata sihinayakin puthek innawa kiwwa eya warak jeewithaya kiyala,32836,pending,,,,,pending
+SI24094,mama golf kreeda kireemata yamin sitiyemi obata asiyanu pemwathiyan prathikshepa kireema eejipthuwe gangawak nowe,24095,pending,,,,,pending
+SI18727,rileks jon owun nikamma kuda daruwan wuwaya oba yana yana hemathenama me rata winasha karanne eyamaya,18728,pending,,,,,pending
+SI00100,kalakanniya,101,needs_review,single_word,,,,pending
+SI19091,hari hari mama bhayanakayi den jathika arakshaka kawunsilaya thushnimbhutha weyi,19092,pending,,,,,pending
+SI03770,ow sar eya koheda inne pura handak,3771,pending,,,,,pending
+SI30023,oyage gedara oyata mathaka nedda ne ne mata oyata wishwasa ne,30024,pending,,,,,pending
+SI00190,Great..,191,needs_review,single_word,,,,pending
+SI21399,obe illa asweema den obe illa asweema den mata avashya wu [Unkown] lesa owunta kiwa hekiya [Unkown],21400,needs_review,partial_unknown_marker,,,,pending
+SI15834,harima lassanayi ow mama eyata kemathiyi mama ihalayi oba danna sema deyakma mata penenawa eya kuda wen rathaye kedilek,15835,pending,,,,,pending
+SI32596,[Unkown] mahatha mata ehi nathara wiya yuthuyi oba frenk [Unkown] dannawada oba adahas kale pare bekariya ayithi frenk,32597,needs_review,partial_unknown_marker,,,,pending
+SI04867,hanganna ow oya dannawane inna,4868,pending,,,,,pending
+SI17849,e gena kumak deyi mama nodanimi mata eya weemata awashyayi,17850,pending,,,,,pending
+SI21290,e kiyanne arl wiliyams heta ude merila apiwa ura bona kenek karanawa oyata pissuda koheda mek,21291,pending,,,,,pending
+SI19272,eya eeye peminiye mama eya thawamath wiwtha kara netha samahara wita eya den awasan weemata niyamithayi samahara wita dewiyanta eya wenath akarayakin nothibenu etha,19273,pending,,,,,pending
+SI11551,mama nidaganne ne eyage chek eka ganna kiyala [Unkown] [Unkown] chek eka ganna beri nisa,11552,needs_review,partial_unknown_marker,,,,pending
+SI03594,e wage minihekuta ape wedawalata balaya thiyena eka sadharana nehe namuth ohu kerehi balaya thiyena aya innawa mama hithanne mama meka adhirajyaya samanga geniyanawa,3595,pending,,,,,pending
+SI35152,"""Wow dennama lassani ",35153,needs_review,leading_quote,,,,pending
+SI17684,hondayi mama hithanne nehe apata ekinekata kiyannata boho de ethi bawa api kisiwitakath karanne methenata pemina endum galawa ekata endata peneema pamanayi,17685,pending,,,,,pending
+SI10499,oyata mawa wishwasa karanna puluwanda e jek e jek neweyida eka [Unkown] eka [Unkown] ne eka mada neweyi mada mada witharayi,10500,needs_review,partial_unknown_marker,,,,pending
+SI10085,ohu ketharam daksha wuwath ohuta thawamath pitaweeme weesa awashya we nethahoth mama dekak kiwa yuththe eyi dekak,10086,pending,,,,,pending
+SI14828,owun wen rathaya soyanu etha oba magulak men kriya nokarana thak kal api hondin sitimu,14829,pending,,,,,pending
+SI35467,"""Niymei ????????????",35468,needs_review,single_word;leading_quote,,,,pending
+SI29613,welari oya merila,29614,pending,,,,,pending
+SI24633,oba baya nam eya oben kusaginna biya ganwayi oba biyata wada badagini nam nowe,24634,pending,,,,,pending
+SI24436,oh ow mata ehuna ow pudgalikawa mama hithanne eka moda wedak,24437,pending,,,,,pending
+SI35401,"""Akki oya lassanata dance karana wa akki. Asai. Budu saranai akki oyata?",35402,needs_review,leading_quote,,,,pending
+SI12487,eya mata sitheemata pelambawu karadaraya arambha karanne sema witama kanthawan ya,12488,pending,,,,,pending
+SI00225,G.T.A ගේම් එකහ වගේ නිකම්😂,226,needs_review,non_latin_script,,,,pending
+SI37354,"Hariyata baluwoth oya ge kathawa pissu wage wage ne, meka nam athi.",37355,needs_review,uncertain_provenance,,,,pending
+SI17470,mata therenne nehe obata nishchitha selesmak ethi thek oba kohewath yamata mata awashya netha,17471,pending,,,,,pending
+SI34761,pissu hedenawa namuth mata eya denenne nehe,34762,pending,,,,,pending
+SI32746,eya kumak wedeyi mata obata sahathika wiya noheka namuth mama mage jeewithaya gena diwuranawa mama obata rekiyawak soya dennemi saha eyi oba ma wenuwen eya karanne,32747,pending,,,,,pending
+SI03216,onema welawaka obata [Unkown],3217,needs_review,partial_unknown_marker,,,,pending
+SI12294,suba udesanak jon suba udesanak,12295,pending,,,,,pending
+SI04998,oya lassanayi ow mata samuganna haduwak denna,4999,pending,,,,,pending
+SI38915,oya ge idea eka nam weda bari ne hariyata.,38916,needs_review,uncertain_provenance,,,,pending
+SI35221,"""Akki oyage danceing covers lassanai",35222,needs_review,leading_quote,,,,pending
+SI32996,menna oba siyalu denatama pramanawath thalluwak netha,32997,pending,,,,,pending
+SI09425,api eyawa maranna kalin oya eya langata awa,9426,pending,,,,,pending
+SI35026,"""lankawa bihi kala thawath legend ekak umariya",35027,needs_review,leading_quote,,,,pending
+SI38825,"Ane manda oya ge wada, wadak nathi wage behave wenne ai? lajja nadda.",38826,needs_review,uncertain_provenance,,,,pending
+SI30467,eya peminenne kothenatada ohu pentaganayata goda besseya,30468,pending,,,,,pending
+SI38174,oya ge idea eka mehema karanne loku talk karana moda nisa da? ne.,38175,needs_review,uncertain_provenance,,,,pending
+SI10642,me thena gedara wage wenna epa eka gedarata wada lassanayi,10643,pending,,,,,pending
+SI34978,"""Una nowana Uba thamai. Kalakanniya.",34979,needs_review,leading_quote,,,,pending
+SI35045,"""Niyamai,lassanai,""",35046,needs_review,leading_quote,,,,pending
+SI00082,Hi,83,needs_review,single_word,,,,pending
+SI34657,api selasum kala akarayatama siyalla siduwemin pawathee oba thawamath apage wiwaha giwisa geneema prakasha kara netha,34658,pending,,,,,pending
+SI36030,oya ge wada nam pissu wage ne machan.,36031,needs_review,uncertain_provenance,,,,pending
+SI08084,ayubowan edam ayubowan,8085,pending,,,,,pending
+SI40388,oya ge post eka ta kiyanna one gon harakek wage wada nawaththanna kiyala.,40389,needs_review,uncertain_provenance,,,,pending
+SI03387,eya obe semiyata awashya nam ada rathriye enna wiyana soyana post ekak namuth mama wiwahaka kanthawak,3388,pending,,,,,pending
+SI32067,eka thamayi duka hithena kathawak,32068,pending,,,,,pending
+SI33018,meya samanya deyak noweda api awasanaye yamekuta honda hereemak kara methen sita siduwanne kumakdeyi balamu eya wyathirekayak nowe,33019,pending,,,,,pending
+SI20522,obata awashya nam apata wenath panayak sandaha hamuwiya heka ewita mata eya wadath hondin pehedili kala hekiya mama obata etharam nayagethiyi balanna mata yannata siduwanu etha obath dannawa,20523,pending,,,,,pending
+SI30009,mama athpothak aran eka padam karannam,30010,pending,,,,,pending
+SI17981,yanna oba wenuwen an siyalla amathaka kala adaraya kala heki minisek oba kawuda [Unkown],17982,needs_review,partial_unknown_marker,,,,pending
+SI13915,oba owunwa dena handuna ganna wita owun eththenma honda minisun ya,13916,pending,,,,,pending
+SI22844,saha meeta pera boho loka,22845,pending,,,,,pending
+SI02532,mama kalpana kale oba dewarak wiwaha wee ethi bawayi,2533,pending,,,,,pending
+SI37575,me comment eka danapu eka mehema karanne weda bari nisa da? me wage wada nawaththapan.,37576,needs_review,uncertain_provenance,,,,pending
+SI05911,mama oyata kiwwa mage langin inna kiyala mama eka karanawa mama ethana hitiya magulak karanawa oya danne nehe machan mama monawada kale kiyala oya danne nehe,5912,pending,,,,,pending
+SI33619,ow andukarawarayata badha kireema gena mata samawenna namuth ema plastar onema dewana putheku dedi karayi,33620,pending,,,,,pending
+SI27409,awadharanaya sandaha hariyatama eya yathurayi,27410,pending,,,,,pending
+SI31667,jonsan edee ayiyage ayiyala api balamu e [Unkown] eka,31668,needs_review,partial_unknown_marker,,,,pending
+SI24769,yanna,24770,needs_review,single_word,,,,pending
+SI10030,api sathutin wyaparaya karagena yamuda oba wadi nowanna,10031,pending,,,,,pending
+SI35392,"""harima lassanai",35393,needs_review,leading_quote,,,,pending
+SI32825,ow owun namuth enna,32826,pending,,,,,pending
+SI21333,wiliyams alla geneema sandaha aparadha komisama dolar dasadahasaka thyagayak pirinemeemata ohuta eya lebune kohendeyi kisiweku danne netheyi mama obata kiyami,21334,pending,,,,,pending
+SI07112,eya obage wyaparaye kisindu deyak honda nethath eya balaporoththu sun karawana sulu wiya yuthuya,7113,pending,,,,,pending
+SI09235,[Unkown] [Unkown] [Unkown] [Unkown] api yamu,9236,needs_review,partial_unknown_marker,,,,pending
+SI34974,"""Ammo  pissu wattanawa rini oyaa vois eka ammo",34975,needs_review,leading_quote,,,,pending
+SI32073,[Unkown] katha karanne oya dannawada oya monawada katha karanne kiyala mama danne nehe ekayi mama oyagen ahanne,32074,needs_review,partial_unknown_marker,,,,pending
+SI20623,oya ekata kemathi nedda ne ne mama ekata adareyi oya hithagena inne oya hondatama asaneepa wela inna ethi kiyala,20624,pending,,,,,pending
+SI33487,ow mage hondama mithuran samaharak mama eya sithana sema awasthawakama wihilu karathi,33488,pending,,,,,pending
+SI39547,"oya wage kenek, uba nam wal buruwa hariyata wada karapan.",39548,needs_review,uncertain_provenance,,,,pending
+SI09315,samawenna,9316,needs_review,single_word,,,,pending
+SI28569,[Unkown] le bindu kihipayak sandaha rajuge kappam mudalak gewanu etha boho denek mata eya awashya netha,28570,needs_review,partial_unknown_marker,,,,pending
+SI06143,hari [Unkown] oyata den loku thihak nayayi oya mokada karanne mata eelaga tharagayedee degunayak ho kisiwak yanna awashyayi,6144,needs_review,partial_unknown_marker,,,,pending
+SI15640,apoyi me miniha us godanegili walin wayu beg walata paninna purudu wela hitiya oya karana wedeta yatin kottayak ne mama eken pusa mama iwarayi,15641,pending,,,,,pending
+SI07351,dewiyan wahanse mawa dekeemata avashya deyi danne don [Unkown] ohu ma danne deyi ohu danne ohu thattu karanne nam oba doratuwata pilithuru dena sthanayeni,7352,needs_review,partial_unknown_marker,,,,pending
+SI14915,ohu hurupurudu bawa oba dannawa,14916,pending,,,,,pending
+SI29342,hu,29343,needs_review,single_word,,,,pending
+SI26604,hari hari me wage oya kawadawath netumakata gihin nehe,26605,pending,,,,,pending
+SI35229,"""Thanks........oba thumata",35230,needs_review,leading_quote,,,,pending
+SI35130,"""Supiri",35131,needs_review,single_word;leading_quote,,,,pending
+SI35512,"""Meka balala ape unge wadema gihin ara sinduwa ahana eka ????",35513,needs_review,leading_quote,,,,pending
+SI18767,mokakda awula [Unkown] ta mokada une mama oyawa ehedi hambawennam,18768,needs_review,partial_unknown_marker,,,,pending
+SI35050,"""Lankawe Inna hodama niliya",35051,needs_review,leading_quote,,,,pending
+SI31179,wiweka ganna obata eka panahak lebuna obata ehuna rikee miniha dannawa api kopamana kalayak mehi sitiya yuthuda yanna api eya awasan kala yuthuyi,31180,pending,,,,,pending
+SI00205,Lankawa,206,needs_review,single_word,,,,pending
+SI16685,eya josh samanga rahas sambandhayak pawathwanne kumakda mata awashya yeyi mama nodanimi,16686,pending,,,,,pending
+SI35418,"""Mara",35419,needs_review,single_word;leading_quote,,,,pending
+SI18484,wishala wiyadam karanna oba kisiwak deka netha,18485,pending,,,,,pending
+SI24513,e siyallatama wagakiwa yuththe owun hasyajanaka wanne mandeyi eya wartha kireemata mata awashya netha,24514,pending,,,,,pending
+SI32423,oya dannawane mama eeye re pissu heenayak dekka e oya gena kiyala,32424,pending,,,,,pending
+SI05950,mama den linkan udyanaye jeewath wanne sancharaya kireemata pamanak nowe ow oba monawada kale,5951,pending,,,,,pending
+SI34990,"""Lassie godk",34991,needs_review,leading_quote,,,,pending
+SI15185,pesifik sagaraye nyashtika athhada beleema gena oba katha kireema ow mage rata wisin sidu karana lada mema pareekshanaya bhayanaka awul jalayak ethi kaleya api eya pirisidu kireemata mehi sitimu,15186,pending,,,,,pending
+SI35023,"""nagai asama gaekava patta voice",35024,needs_review,leading_quote,,,,pending
+SI09505,ohu enne nehe mama dannawa ohu ena bawa,9506,pending,,,,,pending
+SI40370,"mehema wada karana eka, uba nam gon boruwata katha karanne.",40371,needs_review,uncertain_provenance,,,,pending
+SI17479,mama danne nehe mokada wenne kiyala mama danne nehe oya kiyanne oya awul wela kiyala,17480,pending,,,,,pending
+SI23880,hondayi oba karana thuru mata obata pewasiya hekke oba denatamath danna de owun sammuka pareekshanayak wikashanaya nokaranu ethi bawayi,23881,pending,,,,,pending
+SI16923,oba owun kawudeyi yamak kala yuthuyi,16924,pending,,,,,pending
+SI26633,eya selawena bawak penenne nedda eya hariyata hayi [Unkown] kiyanawa oba mage amma wenawada ow ow eya ese karanawa wage,26634,needs_review,partial_unknown_marker,,,,pending
+SI34534,ohu pawum deseeyak ellanawa dekeema sandaha mama pawum siyayak gewannemi,34535,pending,,,,,pending
+SI19581,mama danne nehe machan oya kenekwa hoyanawa nam samahara wita oyata polis karayo balanna wenawa eth mama,19582,pending,,,,,pending
+SI30463,oya hithanne eka thamayi wenne kiyala mama hithanne eka thamayi wenne kiyala,30464,pending,,,,,pending
+SI34956,"""Fatta",34957,needs_review,single_word;leading_quote,,,,pending
+SI35241,"""NIYAMAI",35242,needs_review,single_word;leading_quote,,,,pending
+SI11958,apiwa mankolla kewa hari eyage pars eka ganna,11959,pending,,,,,pending
+SI35162,"""Patta......??",35163,needs_review,single_word;leading_quote,,,,pending
+SI25592,hah hah mama barapathalayi oba onewata wada dum panaya karana jarawa obe abhilashaya sorakam karanne obe abhilashaya usas wee rupawahiniya nerambeema nam nowe,25593,pending,,,,,pending
+SI34346,mata oya ekka katha karanna ona doktar mata enna puluwanda,34347,pending,,,,,pending
+SI19657,oba dakinne kumakda mama dakinne sundarathwaye saha adaraye sadakalika dewathawiyayi mama dakinne efrodayit sampurna kanthawa,19658,pending,,,,,pending
+SI26614,dewiyane oba etharam tharuna nowe eththatama mata wayasa awurudu dahasayak nowe minisun kriya karanne kawadadeyi kiyannata tharam mata wayasayi,26615,pending,,,,,pending
+SI26815,ethemun sithanne ohu newatha kisi dineka nomara newatha samajayata athurudahan wu nisa yeyi obata e gena etharam wishwasayak netha,26816,pending,,,,,pending
+SI35410,"""Shok akkiyo parissamata digtma krgana yanda mama oyata godak adare akkiyo ????",35411,needs_review,leading_quote,,,,pending
+SI28349,pilithurak nethi prahelikawak wanne oba wayin pipasayen sitina wita his koppayak pamanak wana athara eya lakunata hondinma sathya wu athara eya wayin nam obata awashya nam eya wayin apata lebenu etha,28350,pending,,,,,pending
+SI34719,mehe enna mama ehema kellek neweyi,34720,pending,,,,,pending
+SI27816,ehenam eyi kisima hethuwak neththe,27817,pending,,,,,pending
+SI39405,"me video eka balala comment karana eka, meka nam kata witharai wada level ekak. hariyata wada karapan.",39406,needs_review,uncertain_provenance,,,,pending
+SI13126,eya sarala [Unkown] wadanaya nowe [Unkown] [Unkown] nawika palanaya sandaha patigatha kireema yathrawata prathichara dekweemata uthsaha kale ekama prathicharaya meyayi,13127,needs_review,partial_unknown_marker,,,,pending
+SI40217,"oya ge kathawa, meka nam loku talk karana moda level ekak. machan.",40218,needs_review,uncertain_provenance,,,,pending
+SI38780,Oya ge post eka nam mole kalpana nathi ane.,38781,needs_review,uncertain_provenance,,,,pending
+SI28011,prawththiya honda nehe lamaya me tika menna balanna eka kedila thiyenawa oyata aluth ekak ona kiyala oya kochchara hithanawada kiyala,28012,pending,,,,,pending
+SI35330,"""Niyamaiii",35331,needs_review,single_word;leading_quote,,,,pending
+SI36015,"uba, meka nam moda level ekak. me wage wada nawaththapan.",36016,needs_review,uncertain_provenance,,,,pending
+SI25772,pudgalikawa mama kawadawath palliye nam walata giye nehe oya hithanne [Unkown] enne kohenda kiyala,25773,needs_review,partial_unknown_marker,,,,pending
+SI00681,mata andha wairayak ethi wu wita senehasa awashya wanne katadeyi obata soyagatha hekiya,682,pending,,,,,pending
+SI40212,oya ge post eka loku talk karana moda kata wahagena inna.,40213,needs_review,uncertain_provenance,,,,pending
+SI02224,eya atheethaye oba resweemwalata yama newethwuye nam misa ganudenuwak ganudenuwak nowe,2225,pending,,,,,pending
+SI29927,ohu edee mahathata kumana ganudenuwak karanneda [Unkown],29928,needs_review,partial_unknown_marker,,,,pending
+SI11738,obata hatharawana waraya manga hera rij wetha yamata awashya wanne obata ethi weredda kumakda yannayi,11739,pending,,,,,pending
+SI21845,api methanin eliyata awa api methanin giya kiyala hithanna piyana arinna uthsaha karanna leeye sidurak payin gahanna uthsaha karanna,21846,pending,,,,,pending
+SI26496,hondayi ow oba napuru wu wita pawa mata siti hondama mithura obayi,26497,pending,,,,,pending
+SI30397,karunakara oba nomethiwa dina itha digu ha thanikamak wanu etheyi karunakara kiyanna karunakara siyalla hari mama ehi sitimi,30398,pending,,,,,pending
+SI06265,halo amme mata me anith kol eka ayin karanna denna mata yanna thiyenne mage ammala,6266,pending,,,,,pending
+SI33769,jim mama e wenuwen penee sitinne nehe oba e wenuwen penee sitinne nehe,33770,pending,,,,,pending
+SI17427,andanna epa eliyata yanna,17428,pending,,,,,pending
+SI06617,mona magulakda wenne api mokada karanne,6618,pending,,,,,pending
+SI35004,"""Amal oba sundara gayakayek .yali hamu wemu.mal mawath netha apita .seba lowa darunui.piya puthu depalatama shakthiya ha ddhairaya labewa.",35005,needs_review,leading_quote,,,,pending
+SI24331,reks samanga wyuha widyathmakawa niweradi weemata awashya netheyi mama kee wita ma adahas karanne kumakdeyi oba dannawa,24332,pending,,,,,pending
+SI03713,oba sema dinakama uthsaha kalada samahara wita mama peya gananak yachkna karami,3714,pending,,,,,pending
+SI11355,oba hema sathiyakama kale nehe,11356,pending,,,,,pending
+SI34733,shuraya apasu penneya eya ma karana wita mata mehi siteemata awashyaya,34734,pending,,,,,pending
+SI07844,mama nisa oyata oyage rassawa nethi wunada eka amathaka karanna mata e thakkadiya wenuwen weda kireema asaneepayi,7845,pending,,,,,pending
+SI00259,Mama 3 replay karanna heshan aiyye,260,pending,,,,,pending
+SI13839,oba wenuwen ema paniwidaya thebu kanthawa itha kelambee etha mama hithanne eya andanne eyi eya andanne kiyala,13840,pending,,,,,pending
+SI35389,"""Lankawe kiyala adura gatthe jathika kodiyan.harima lassanai",35390,needs_review,leading_quote,,,,pending
+SI19853,oh saundaryathmaka agaya kireema sandaha adhairyamath nowanna sema witama manda welawak bala sitinna,19854,pending,,,,,pending
+SI22923,oya kohomada methanata awe mata eka ona koheda,22924,pending,,,,,pending
+SI27133,ow oya magen ayin wenna,27134,pending,,,,,pending
+SI13429,api mage sahodariyata adshyamana kellata kiyanne nopenena kella kiyala,13430,pending,,,,,pending
+SI26011,sarwabaladharee dewiyane mama hithuwe mama witharayi mama kiyala mamath hithuwe nehe eka hariyata mama mehum walin wen wenawa wage,26012,pending,,,,,pending
+SI03360,apata den mudal awashya wu wita ohu den gewayi nethahoth oba eya karanne netha,3361,pending,,,,,pending
+SI35214,"""Dance eke thalayak na..hri kalabala gatiyak tyenwa",35215,needs_review,leading_quote,,,,pending
+SI35090,"""Niyamai",35091,needs_review,single_word;leading_quote,,,,pending
+SI09818,obata mema mudda sandaha welandapolak soyagatha heki wanu etha eya wishala kepakireemakin wikineemata mata bala kereyi sthuthiyi obata namuth mama sithanne nethi tharamya,9819,pending,,,,,pending
+SI25395,nehe kayawardhana kreedakayin harak mas kireemata bonne eyayi,25396,pending,,,,,pending
+SI15983,ema kebal walin ekak edagena yamen kedee yayi yeyi sithamu ewita api siyalloma wenath prashna walata goduru wanu etha,15984,pending,,,,,pending
+SI39337,Oya ge post eka nam mole nathi thamuse.,39338,needs_review,uncertain_provenance,,,,pending
+SI35134,"""oba ape ratata watina sampathak",35135,needs_review,leading_quote,,,,pending
+SI38537,"oya ge idea eka hariyata hariyata therumak nathi wage wada karanawa, kata wahagena inna.",38538,needs_review,uncertain_provenance,,,,pending
+SI25740,mama naththal seeya kawuda nodanne,25741,pending,,,,,pending
+SI23835,oba adahas karanne kumakda eya karanne kumakda yanna mama adahas karanne eya rahasya giwisuma haraha eya kapa ganne keseda yannayi,23836,pending,,,,,pending
+SI37885,Me wage wikarayak athal danne nathuwa tikak hithapan mehema wada karana eka.,37886,needs_review,uncertain_provenance,,,,pending
+SI17499,hondayi mama kuthuhalayen sitina bawa ohu keewe kumakdeyi ohu keewe api honda kandayamak sediya yuthu yeyi ohu sithu bawayi,17500,pending,,,,,pending
+SI32212,[Unkown] katar ow eka hari oyata karadarayak wenna kalin apita [Unkown] katar ekak aran dena eka hondayi,32213,needs_review,partial_unknown_marker,,,,pending
+SI35095,"""mamat asama Gae kawak",35096,needs_review,leading_quote,,,,pending
+SI35446,"""Akki mate oyawe as deken balanne oni mate oyath akke dance akak keranne oni mamath asai tv ake ragepanne",35447,needs_review,leading_quote,,,,pending
+SI36086,"Ane manda umbala, mole kalpana nathi wage behave wenne ai? oya wage aya nisa thamai mehema wenne.",36087,needs_review,uncertain_provenance,,,,pending
+SI31162,mokakda film eka mama kellawa ganne,31163,pending,,,,,pending
+SI34215,obata mathakada mama oben asabhya darshana gena wimasu wita eya uparima nariwedaya ha awama kriyathmaka weema awama karana bawa mata penee giyeya,34216,pending,,,,,pending
+SI01561,kristhus wahanse koheda oba yanne yeyi oba sithanne mama mage sirakaruwa newatha siragedarata gena yami,1562,pending,,,,,pending
+SI36366,"Hariyata baluwoth uba gon wage ne, danawada mokakda kiyala.",36367,needs_review,uncertain_provenance,,,,pending
+SI39930,"Ane manda mehema wada karana eka, wada nodanna wage behave wenne ai? comment karanna kalin hithapan.",39931,needs_review,uncertain_provenance,,,,pending
+SI19685,den mama eya pompa karannam oba yantham hendl harawanna obata umang marga suwanda wilawun sigarat kolon kapat chesnat yu hima yu,19686,pending,,,,,pending
+SI16383,mata eka therune ne hemoma godak modayi,16384,pending,,,,,pending
+SI07360,methana deshana karanna thenak ne den neweyi e nisa oya mama kiyana widiyata karanna,7361,pending,,,,,pending
+SI12566,eththa washayenma mage swamiya keewe edahille yachknawa asaneepa wanu ethi bawayi,12567,pending,,,,,pending
+SI07982,eya awama washayen ahasa tharam honda wiya,7983,pending,,,,,pending
+SI35380,"""Niyamaaaaaaaaaai",35381,needs_review,single_word;leading_quote,,,,pending
+SI06272,putuwak adinna oh samawenna me mage aryawa obawa hamuweemata sathutuyi,6273,pending,,,,,pending
+SI27215,mama eya samanga ekama kamaraye nositina bawa oba danne keseda kiya oba mata katha kala wita oba pewasuwe eya anek kamaraye sitina bawa pewasuwaya,27216,pending,,,,,pending
+SI38553,"oya ge reply eka, meka nam wikarayak level ekak. machan.",38554,needs_review,uncertain_provenance,,,,pending
+SI09180,ithin owunta eththa kiyanna oba eya bhawitha karanne kumak sandahada mama eya bhawitha kireemata yanne ma sathuwa kopamana pramanayak thibeda yanna beleemataya,9181,pending,,,,,pending
+SI15566,eya rajuta erehi thawath pradarshanayaki meya wanacharee namuth mage dewiyane me minisun yuddhayata yamata adahas karanne owun eththatama adahas karanne eyayi,15567,pending,,,,,pending
+SI35255,"""Hoda abyasayak",35256,needs_review,leading_quote,,,,pending
+SI12707,oh mayi [Unkown] oh mayi [Unkown] oh mayi [Unkown] [Unkown] ne samawenna eka lassana namak wunata eke theruma dayawantha ayithiya,12708,needs_review,partial_unknown_marker,,,,pending
+SI05174,mama hithuwe oba idiriyen sitiyadee oba iwath wee mage ipeyeem siyalla wesikiliyata wetenu bala sitinu ethi bawayi,5175,pending,,,,,pending
+SI08684,mama danne nehe owunta hema witama eya awashya wanne me siyalla kumakdeyi owun meya chithrapatayak nowe,8685,pending,,,,,pending
+SI15655,hetak withara kisima jarawak ne samahara ewa,15656,pending,,,,,pending
+SI23793,mata eya laba gatha hekida karunakara mata eya laba gatha noheka eya peya kihipayak gathawanu etha,23794,pending,,,,,pending
+SI06607,ohuta ma gena thekeemak netha ohu kuthuhalayen sitinne oba kawudeyi dena geneemata pamani,6608,pending,,,,,pending
+SI00076,eknma,77,needs_review,single_word,,,,pending
+SI34975,"""?????? lassanaaaaiiiii",34976,needs_review,single_word;leading_quote,,,,pending
+SI04925,ah eka narakayi mata godak badaginiyi,4926,pending,,,,,pending
+SI18222,api wiwaha giwisa geneema awalangu karamu namuth medamta eya kala noheka,18223,pending,,,,,pending
+SI35021,"""Obe hakiyawen puluwan sithak suwapath karanna . Love you so much umariya ??",35022,needs_review,leading_quote,,,,pending
+SI13074,wasara hathakata pasuwath karya mandalaya jeewathun athara sitiya heki bawa obata eththu gos etha,13075,pending,,,,,pending
+SI35354,"""Ftt??",35355,needs_review,single_word;leading_quote,,,,pending
+SI01030,mokakda awula apita eyawa thama ne eth oyage kellek eeye re king edwad hotel ekedi marala demma,1031,pending,,,,,pending
+SI22566,robat obata awashya kumakdeyi mama danna bawa api nodanimu,22567,pending,,,,,pending
+SI25692,hari eya oba gena katha kireema nawathwanne netha oba semawitama ege sithe sitinne adaraya jek eya mata waira karayi luwee,25693,pending,,,,,pending
+SI35473,"""Me wge ayathana rata thula thawa bihi  kala yuthui.",35474,needs_review,leading_quote,,,,pending
+SI07167,punchi es hera wena kawuruth merenawata mama kemathi nehe,7168,pending,,,,,pending
+SI39077,umbala ge kathawa ahuwama hariyata therumak nathi kiyala hithenawa.,39078,needs_review,uncertain_provenance,,,,pending
+SI09993,subha sandhyawak oba dakinawa menna api newathath pemina sitimu eya semta karana lada wishala prashansawak lesa mama sithami ohu obata preethimath dina peris,9994,pending,,,,,pending
+SI21490,nihanda molee methana mokak hari wihiluwak wenawa,21491,pending,,,,,pending
+SI32961,paddhathiye akriyathawaya apage ardha sannayaka akriyayi,32962,pending,,,,,pending
+SI27587,niwasak tharam wishala muwa mas payi kuda niwasak,27588,pending,,,,,pending
+SI35327,"""Patttaaaaa",35328,needs_review,single_word;leading_quote,,,,pending
+SI14318,oba kohe giyath owun kohe giyath mama yanawa,14319,pending,,,,,pending
+SI00409,ane,410,needs_review,single_word,,,,pending
+SI08532,oyata tikak inna puluwanda me yathura [Unkown] mama kemathiyi oya meka karanne neththam therumak ne api kohe hari gihin kopi ekak bomu,8533,needs_review,partial_unknown_marker,,,,pending
+SI35423,"""Lssnai",35424,needs_review,single_word;leading_quote,,,,pending
+SI35719,"oya ge kathawa, meka nam chater level ekak. oya wage aya nisa thamai mehema wenne.",35720,needs_review,uncertain_provenance,,,,pending
+SI00443,Hahhahhahaahaaa,444,needs_review,single_word,,,,pending
+SI04102,duwanne obe karyaya nowa oba siril prathisanskaranaya kireema arambha kireema wada hondaya,4103,pending,,,,,pending
+SI15756,eyi mama digatama oya diha balagena inna ona mata oyawa ona,15757,pending,,,,,pending
+SI01094,oyata eka karanna be kiyala oya danna aparadha sthanayata apita yanna puluwanda [Unkown],1095,needs_review,partial_unknown_marker,,,,pending
+SI27283,wenath onema deyak ow kisiweku eya nodanne nam obe handa [Unkown] ganne eyi [Unkown],27284,needs_review,partial_unknown_marker,,,,pending
+SI13547,hondayi mama wishwasa karanawa obata poramayak pirawiya yuthu bawa mehi ped ekak thibe mata mage mudal den apasu awashya netha,13548,pending,,,,,pending
+SI35937,"umbala, meka nam gon level ekak. ban.",35938,needs_review,uncertain_provenance,,,,pending
+SI12742,ne mama dannawa newatha piraweemak awashya minihek,12743,pending,,,,,pending
+SI00119,Mk,120,needs_review,single_word,,,,pending
+SI27722,api monawa karannada mama hithanne,27723,pending,,,,,pending
+SI20660,mewa watinawa aduma tharame mama danne nehe mata panahak deela ewa eliyata ganna ewaye watinakama mokakda kiyala,20661,pending,,,,,pending
+SI06065,ehidee ohuta piyano padam thibe,6066,pending,,,,,pending
+SI12439,namuth penuma wedagath wanne kalabala noweemayi,12440,pending,,,,,pending
+SI11413,balanna,11414,needs_review,single_word,,,,pending
+SI36908,Oya ge post eka nam wadak nathi meka dakka gaman hina yanawa.,36909,needs_review,uncertain_provenance,,,,pending
+SI23680,oyage yaluwo [Unkown] gena ehuwada eyala mata tikak wihilu kala,23681,needs_review,partial_unknown_marker,,,,pending
+SI33494,mama weedi motar rathayak enathuru bala sitimi eya hondin kapa damanna kese ho selakilimath wanne kawudeyi balanna,33495,pending,,,,,pending
+SI13776,baya wenna epa [Unkown] oya samaharawita hondatama kendiri gewi oh ow,13777,needs_review,partial_unknown_marker,,,,pending
+SI35102,"""Suda patum dennatama",35103,needs_review,leading_quote,,,,pending
+SI13049,menna mama wayu sameekarana yanthraya prathikshepa karannam eya wayu sameekarana yanthraya nowe mawa seethala karanne kisiwak mehi chalanaya nowe obe kurullan pawa,13050,pending,,,,,pending
+SI26273,obata eya lebee ethi athara ahambu hani thibe nam,26274,pending,,,,,pending
+SI35256,"""Harima hodai",35257,needs_review,leading_quote,,,,pending
+SI35472,"""Me",35473,needs_review,single_word;leading_quote,,,,pending
+SI34980,"""Thawath hadawathe voice ekak thamai meka...amal perera...????????",34981,needs_review,leading_quote,,,,pending
+SI21825,ehi dee obata kisima udawwak awashya nowana bawa obata wishwasayi [Unkown],21826,needs_review,partial_unknown_marker,,,,pending
+SI28360,loku prashnayak e kolla eyi me loketa mehema wela thiyenne eyi den seetha wela andura wetila,28361,pending,,,,,pending
+SI14726,[Unkown] ema dewiyange kriya eththa washayenma eya thulata elee eya binda damanna epa ow owun karanawa,14727,needs_review,partial_unknown_marker,,,,pending
+SI00322,Adanam vlog eka windai 15 th wada parakkui ane ilaga japan yana vlog ekak balnanna puluwan weida ane me krnaya thiynne ane heshan aiyyage nathuam ane  nikan ara mokadda holanamk wahila wage natanne dennama ehemai an,323,pending,,,,,pending
+SI10286,e kalaya purama mama naukawak yamata bala siti athara oba ma nomethiwa giya ow udaw kala noheki wiya,10287,pending,,,,,pending
+SI23812,sonduriya [Unkown] [Unkown] [Unkown] [Unkown] eya newathath mage [Unkown] bonikka samanga sellam kalaya,23813,needs_review,partial_unknown_marker,,,,pending
+SI00856,pradhaniyata kiyanna api ohuta sthuthi karanawa pradhaniya dannawa,857,pending,,,,,pending
+SI17582,hondayi mama nitharama hithuwe oba itha honda pudgalayek bawa oba dannawada mama mathpen panaya karanneku bawa,17583,pending,,,,,pending
+SI27154,kihipa denek kawurun ho kepee penuna,27155,pending,,,,,pending
+SI06857,ohu hamudawa nowe eya nila nowe pasuwa eya nila nowana ya,6858,pending,,,,,pending
+SI16888,mama matawath honda nehe eyi oya dannawata wada oya godak hondayi oya wage dewal kiyanne,16889,pending,,,,,pending
+SI35866,mehema wada karana eka nam hariyata therumak nathi ne ban.,35867,needs_review,uncertain_provenance,,,,pending
+SI15246,oba eya udu yatikuru kara thabagena sitiye oba wasagena nowe,15247,pending,,,,,pending
+SI08217,eyin adahas karanne piriminge endumwala obe rasaya narakayi piriminge obe rasaya mota bawa,8218,pending,,,,,pending
+SI29140,eya hondin innawa saha daruwa,29141,pending,,,,,pending
+SI35450,"""Woow godak hoda deyak mewa balala wath anith aya hadenawa  nam ohoma karanna wenne naha",35451,needs_review,leading_quote,,,,pending
+SI16123,samahara wita e greeka jathikayan wenuwen prayojanawath weda kale owungen kenek wiya hekiya namuth owun ahinsaka goduru wu mageen pamanak yeyi mama sithami,16124,pending,,,,,pending
+SI31473,oba kawada ho yamak adhyayanaya kara thibeda minisata mona magulakda yannehi kotasak nowe,31474,pending,,,,,pending
+SI34571,ohu katha kale kawurun kumak genada katha kaleda yannayi,34572,pending,,,,,pending
+SI19862,balanna ohu mehi sitina bawa oba obe mama wishwasa kireemata igena gatha yuthuya awankawama ohu mehi nositiya yuthuya eya upakramayak wiya yuthuya,19863,pending,,,,,pending
+SI34503,badawel ow ewa,34504,pending,,,,,pending
+SI38796,oya ge kathawa ahuwama boru karaya kiyala hithenawa.,38797,needs_review,uncertain_provenance,,,,pending
+SI26404,oya meka hemadama karanawa hari chali awurudu wissak,26405,pending,,,,,pending
+SI10973,thunweni deyak nehe mithya wishwasa karanna epa mama oyata adareyi jek oya eka dannawa,10974,pending,,,,,pending
+SI39450,Mokakda me umbala ge pissu wage wada? ban.,39451,needs_review,uncertain_provenance,,,,pending
+SI26517,dewiyane namuth mama eya darukamata hada geneema sandaha athahera damami mama denatamath paripurna pudgalayin soyagena etha,26518,pending,,,,,pending
+SI11330,oba penee sitina thuru oba uparimayen adahas karanne keseda [Unkown],11331,needs_review,partial_unknown_marker,,,,pending
+SI06759,sajan west wasara wisithunak sewaya kara ethi athara ohu nuthana hamudawe mahajana muhunuwara wana athara mama thawaduratath hamudawe nositina bawa obata pene,6760,pending,,,,,pending
+SI18085,ne ne thawama saneepa ne mage rajakariyata badha karanna mama ida nodiya yuthuyi mehi kisima prawththiyak ow anka eke heta hathare ghathanaya,18086,pending,,,,,pending
+SI25344,obata awashya nam ow mama hithanne kanthawak,25345,pending,,,,,pending
+SI01654,bilee idiriyata yanna eka kadanna epa eyawa maranna epa mata oyata salli ganna puluwan,1655,pending,,,,,pending
+SI25419,oba ohu samanga jeewath wemi mama mehi jeewath wemi ohu meksikowe dee ohuta lebunu dolar miliyana bhagayak gena ohu obata kiyayi,25420,pending,,,,,pending
+SI28309,oba balaporoththu wana paridi mage shareeraya samanga oba kisi witekath mage athmaya himikara noganu etheyi apekshawen oba kalabala noweema gena mama sathutu wemi,28310,pending,,,,,pending
+SI20337,ohu kawada ho obata kale kumakda ohu ohuge darunu rasayen ma amanapa kaleya,20338,pending,,,,,pending
+SI21831,heyi samaharawita eya dannawa wenna puluwan me koheda kiyala,21832,pending,,,,,pending
+SI35425,"""Lassanaiii????",35426,needs_review,single_word;leading_quote,,,,pending
+SI08940,mata awashya oba me mokakda kiyala balanna,8941,pending,,,,,pending
+SI35294,"""Ma duvat oua waga natanawa",35295,needs_review,leading_quote,,,,pending
+SI15731,oya jeewath wenne miyami wala eka hari,15732,pending,,,,,pending
+SI04688,namuth lori kenadi yanu sampurna dda wasthuwaki,4689,pending,,,,,pending
+SI15600,e minissu jorj aprikawen kohenda enne,15601,pending,,,,,pending
+SI02121,ow eya oba men adak dedi wanu etha namuth eya thaththata mata ese selakeemata ida dunne netha,2122,pending,,,,,pending
+SI31139,eyi oya hemawelema mama kemathi lamayawa balaganna hirawela inne,31140,pending,,,,,pending
+SI34976,"""???? sthuthi",34977,needs_review,single_word;leading_quote,,,,pending
+SI20688,oya mata wada kadu gena dannawa kiyala hithuwe mage yaluwa kiyala,20689,pending,,,,,pending
+SI33616,subha sandhyawak sar mama andukara appa tikak heduwa hondayi mama [Unkown] ekata yannam,33617,needs_review,partial_unknown_marker,,,,pending
+SI14070,api eka heduwada mama hithanne,14071,pending,,,,,pending
+SI20125,oyata mata mehema inna denna be karunakara mata monawada karanna ona kiyala oyata be,20126,pending,,,,,pending
+SI18304,mata godak aya mata weda kala lilee mata me wage jarawak thiyenna be aye kawadawath ehema wenne ne mama diwuranawa,18305,pending,,,,,pending
+SI16130,[Unkown] [Unkown] [Unkown] [Unkown] iwarayi,16131,needs_review,partial_unknown_marker,,,,pending
+SI03793,keb rathayak wegawath nowanu etha mama obawa ikmanin balaporoththu wemi,3794,pending,,,,,pending
+SI14736,oba sansunwa sitina thak eya sansun wanu etha oba kumak kiyannada yanna mata sulu adahasakwath netha,14737,pending,,,,,pending
+SI35508,"""Mokkd ane mee",35509,needs_review,leading_quote,,,,pending
+SI12196,oba me sandaha rasayak laba gena etha eya itha poshyadayee sar,12197,pending,,,,,pending
+SI35186,"""Damithri akkige dance eka ????",35187,needs_review,leading_quote,,,,pending
+SI35488,"""Kohomda Apita me sthabyata badenna puluwan",35489,needs_review,leading_quote,,,,pending
+SI39469,Mokakda me mehema wada karana eka ge wikarayak wada? thamuse.,39470,needs_review,uncertain_provenance,,,,pending
+SI10400,mama hithanne ohuwa hamuweemata haniyak nowanu etha ohuge nama newathath acharya homar wels,10401,pending,,,,,pending
+SI14118,oba sithanne nehe mama pramanawath tharam honda swameeni eya apata awashya mudal pamanak wana athara api eya soya gaththemu,14119,pending,,,,,pending
+SI00220,Ammo,221,needs_review,single_word,,,,pending
+SI07623,oba tikak redikal deyak manase thabagena wenas weemata kemathida [Unkown],7624,needs_review,partial_unknown_marker,,,,pending
+SI16332,mata mathakayi e sadaye hema [Unkown] mage thaththa jonee ekka innawa,16333,needs_review,partial_unknown_marker,,,,pending
+SI26295,mokakda ara [Unkown] eka galawala thibbe,26296,needs_review,partial_unknown_marker,,,,pending
+SI36992,"Ane manda oya ge kathawa, wal buruwa wage behave wenne ai? lajja nadda.",36993,needs_review,uncertain_provenance,,,,pending
+SI28628,sanda itha watakuru ya,28629,pending,,,,,pending
+SI27391,ow oya ward gem gahanawada me mokakda,27392,pending,,,,,pending
+SI15279,oyage nama mokakda brendan putha,15280,pending,,,,,pending
+SI04588,mage salli walin api e iskole gini thiyanna ona sar,4589,pending,,,,,pending
+SI27592,eka balu petiyek eyi seeyak prarthana nokaranne mata eka witharayi one,27593,pending,,,,,pending
+SI01270,obe waidyawaraya ow mage mano waidyawaraya mata beheth ganna kiyala bala kale nehe,1271,pending,,,,,pending
+SI15333,wam pasin samantharawa sitinna heyi obata dhawanaya kireemata awashyayi,15334,pending,,,,,pending
+SI39708,"oya hariyata kata witharai wada wage wada karanawa, hariyata wada karapan.",39709,needs_review,uncertain_provenance,,,,pending
+SI29338,mata meka kanna be eyi deyiyane,29339,pending,,,,,pending
+SI24163,ithin mata ehenawa okkoma ne e okkoma neweyi kiyala,24164,pending,,,,,pending
+SI14708,kamak ne petiyo hemadeyakma hari yanawa thaththe shugar kiyana eka ahagena indapan mokuth karanna epa modayo denna sayiman kiyanawa wadi wenna kiyala,14709,pending,,,,,pending
+SI35219,"""Akki",35220,needs_review,single_word;leading_quote,,,,pending
+SI00780,oba hari eya thawamath kopayen mihiri adaraya obe balaya aluth karayi,781,pending,,,,,pending
+SI33580,menna owun mata ewa lebuna owun hondin innawa e arbudaya me akarayen senet [Unkown] awasan karanawa,33581,needs_review,partial_unknown_marker,,,,pending
+SI13170,smith atha bhawitha kara apawa ema entena pokurata agulu damanna eya bara usulana wyuhayak nowe parissam wanna,13171,pending,,,,,pending
+SI21280,oba adahas karanne kumak da mama eyata mura sanchara karaththaya laba dunne pare weradi peththe ya den siyalla hondin eya kisiyam polis sthanayaka hisa gasa damayi,21281,pending,,,,,pending
+SI28019,mata me yuri ona ne ane mata meka eththatama ona ne oya dannawa mama gruurup karanna kemathi ne mata me sera ona mata meka ona,28020,pending,,,,,pending
+SI34994,"""Godak lassanai sing karanawa mn godak adare karana singer kenek oba....ewagema kiyanna thiuenade face to face kiyanna puluwan kenek oba godak watina kenek....",34995,needs_review,leading_quote,,,,pending
+SI37509,"Ane manda me video eka balala comment karana eka, moda yakku wage wage behave wenne ai? machan.",37510,needs_review,uncertain_provenance,,,,pending
+SI15579,martha deyiyane mawa dala yanna sar mata mahansiyi,15580,pending,,,,,pending
+SI22835,mokakda deyiyane api yanne,22836,pending,,,,,pending
+SI32198,apoyi eya obata lassanata langa wiya heki tharam uthuru desin wiya yuthuya apa yana enduma gena oba danne kumakda,32199,pending,,,,,pending
+SI35279,"""Ptta",35280,needs_review,single_word;leading_quote,,,,pending
+SI05590,oba thaniwama yanne netha nisekawama mama mage swamipurushaya meruwe kawudeyi soya balannam oba mema lekana regena yanawada,5591,pending,,,,,pending
+SI15981,thawa ekak eyi neththe,15982,pending,,,,,pending
+SI19307,mama nehe kiyanawa saha sthuthiyi mama mage gamana pramanawath tharam wegawath kale nehe eka neweyi mama gaurawanwitha wune,19308,pending,,,,,pending
+SI24185,eya oba mama ow,24186,pending,,,,,pending
+SI22236,beemata sthuthiyi winadiyak inna samaharawita mata oyata udaw karanna puluwan,22237,pending,,,,,pending
+SI09721,mata eya therenawa obata den eya athaharinna puluwan oh mata samawenna mage weda margaya obawa apahasuthawayata path karayi watina,9722,pending,,,,,pending
+SI00183,Danushka.,184,needs_review,single_word,,,,pending
+SI15840,oba mehi tika welawak sitimin benkuwaka ethi warada kumakdeyi owun eya wartha karayi,15841,pending,,,,,pending
+SI35305,"""Dancing clz akh patn ganava nomlei aya kirimk nomatha contact 075 0 59 98 00 wath apps",35306,needs_review,possible_phone_number;leading_quote,,,,pending
+SI00269,Akki sudu wala,270,pending,,,,,pending
+SI39629,me video eka balala comment karana eka ge kathawa ahuwama wal buruwa kiyala hithenawa.,39630,needs_review,uncertain_provenance,,,,pending
+SI29155,namuth obata aduma tharamin daruwa pitathata yamatawath obata awashya nowe,29156,pending,,,,,pending
+SI38329,"Ane oya wage kenek, moda hariyata wada karapan.",38330,needs_review,uncertain_provenance,,,,pending
+SI01218,mata eya kiyapu hemadema ahanna ona mama oyata kiyanna hadanawa,1219,pending,,,,,pending
+SI00193,India,194,needs_review,single_word,,,,pending
+SI35524,"""Malliy",35525,needs_review,single_word;leading_quote,,,,pending
+SI15992,dolar miliyana panahak dolar miliyana panahak api me pudgalayata eya apen ek ayekugen laba geneemata ida demu ebewin api ohuwa mara damamu,15993,pending,,,,,pending
+SI10714,oba eyawa lihil kala pasu eya ewida giyaya,10715,pending,,,,,pending
+SI24718,swamipurushaya ow ohu obe semiya nam,24719,pending,,,,,pending
+SI08865,ow owun balanne ewaye pagamana desayi,8866,pending,,,,,pending
+SI26386,oba eyawa thotupalen regena giya mama eyawa dena sitiye nehe,26387,pending,,,,,pending
+SI36711,oya ge kathawa ta kiyanna one gon athal karaya wage wada nawaththanna kiyala.,36712,needs_review,uncertain_provenance,,,,pending
+SI25348,eka thamayi adahasa ithin apita one dennek genu dennek,25349,pending,,,,,pending
+SI18202,wathura netha obata kala yuththe e sandaha durakathanaya pamani,18203,pending,,,,,pending
+SI34415,doktar mama dannawa api badada wenakan ekata ekathu wenna one nehe kiyala oyage hithe thiyena de hari,34416,pending,,,,,pending
+SI00434,"Kauda oya kalakaruwange paul keduwe ,",435,pending,,,,,pending
+SI35503,"""Paharak....????????",35504,needs_review,single_word;leading_quote,,,,pending
+SI09680,ohu methaka sita eththenma amuthu lesa kriya karayi ohu thawaduratath mage es desa balannewath netha tharawan mehi pemine,9681,pending,,,,,pending
+SI14078,meya wereddaki meya wyasanayaki eya obata awashya de pamani oba owun samanga katha karana bawa dekeemata ida denna,14079,pending,,,,,pending
+SI35169,"""Lassani",35170,needs_review,single_word;leading_quote,,,,pending
+SI06160,oba eththatama natana modayek oba karadarayak soyana kalu,6161,pending,,,,,pending
+SI09343,me pinthuraya obata yamak adahas karanawada hmm eya kisiwak nowe eya pinthurayak pamani,9344,pending,,,,,pending
+SI14546,ohu kawudeyi oba mata keewoth pamanak mama eya obata nayagethiyi,14547,pending,,,,,pending
+SI32626,eya hari saha guwan thotupale bala sitina guwan yanayak ohuta [Unkown] ohu winadi pahakin prana [Unkown] wedi thebeemata patan ganee,32627,needs_review,partial_unknown_marker,,,,pending
+SI35460,"""Puluwan nm. Me pansala gana weda satahank krnnn",35461,needs_review,leading_quote,,,,pending
+SI32624,hayi [Unkown] hayi kimura ko anadena thanathura,32625,needs_review,partial_unknown_marker,,,,pending
+SI37519,me video eka balala comment karana eka mehema karanne awajathaka wage nisa da? hariyata behave karapan.,37520,needs_review,uncertain_provenance,,,,pending
+SI37068,"oya ge reply eka, uba nam boru karaya machan.",37069,needs_review,uncertain_provenance,,,,pending
+SI00187,Ela,188,needs_review,single_word,,,,pending
