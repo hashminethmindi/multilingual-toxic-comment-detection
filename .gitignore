@@ -22,6 +22,10 @@ data/processed/test.csv
 # VS Code settings
 .vscode/
 
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+
 # OS files
 .DS_Store
 Thumbs.db
