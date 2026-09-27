@@ -135,19 +135,18 @@ def main():
                 
                 status = result.get("status")
                 
-                if status == "Model not connected yet":
-                    st.info("Model integration pending — the interface is ready for the final trained model.")
-                else:
-                    # Keep space ready for the future result section
+                if status == "error":
+                    st.error(f"Error: {result.get('message', 'An error occurred.')}")
+                elif status == "success":
                     prediction = result.get("prediction")
                     confidence = result.get("confidence")
                     
-                    if prediction == 1:
-                        st.error(f"Prediction: **Toxic** (Confidence: {confidence:.2f})")
-                    elif prediction == 0:
-                        st.success(f"Prediction: **Non-toxic** (Confidence: {confidence:.2f})")
+                    if prediction == "Toxic":
+                        st.error(f"Prediction: **Toxic** (Confidence: {confidence:.2f}%)")
+                    elif prediction == "Non-toxic":
+                        st.success(f"Prediction: **Non-toxic** (Confidence: {confidence:.2f}%)")
                     else:
-                        st.write("Prediction unknown.")
+                        st.warning("Prediction unknown.")
 
     # Footer
     st.markdown(
